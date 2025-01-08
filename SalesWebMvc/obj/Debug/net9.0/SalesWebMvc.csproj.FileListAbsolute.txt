@@ -95,3 +95,4 @@
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.pdb
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.genruntimeconfig.cache
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/ref/SalesWebMvc.dll
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.sourcelink.json
