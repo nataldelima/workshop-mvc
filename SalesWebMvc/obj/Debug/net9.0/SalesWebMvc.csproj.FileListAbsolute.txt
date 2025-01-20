@@ -1,3 +1,11 @@
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.AssemblyInfoInputs.cache
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.AssemblyInfo.cs
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.csproj.CoreCompileInputs.cache
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.RazorAssemblyInfo.cache
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.RazorAssemblyInfo.cs
+/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.sourcelink.json
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/appsettings.Development.json
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/appsettings.json
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/SalesWebMvc.staticwebassets.runtime.json
@@ -7,13 +15,6 @@
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/SalesWebMvc.runtimeconfig.json
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/SalesWebMvc.dll
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/bin/Debug/net9.0/SalesWebMvc.pdb
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.AssemblyInfoInputs.cache
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.AssemblyInfo.cs
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.csproj.CoreCompileInputs.cache
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.RazorAssemblyInfo.cache
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.RazorAssemblyInfo.cs
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/scopedcss/bundle/SalesWebMvc.styles.css
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/scopedcss/projectbundle/SalesWebMvc.bundle.scp.css
@@ -95,4 +96,3 @@
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.pdb
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.genruntimeconfig.cache
 /home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/ref/SalesWebMvc.dll
-/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/Debug/net9.0/SalesWebMvc.sourcelink.json

@@ -13,7 +13,6 @@
         "packagesPath": "/home/natal/.nuget/packages/",
         "outputPath": "/home/natal/Documentos/Cursos/Udemy/C sharp/Seção 18 - Projeto Sistema Web/SalesWebMvc/SalesWebMvc/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/home/natal/.nuget/NuGet/NuGet.Config"
         ],
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
